@@ -1,12 +1,16 @@
-## What I learnt:
+## **Title:** Tetris
 
--
--
+**Description:** A simple Tetris game coded in Java.
 
-Future Improvements:
+**What I learned:**
+- 
+- 
+- 
+
+**Future Improvements:**
 
 - implement music and sound effects
 
-References:
+**References:**
 
-- Orginal tutorial available at: https://www.youtube.com/watch?v=N1ktYfszqnM&t=200s [Accessed: 18 March 2024]
+- Original tutorial available at: https://www.youtube.com/watch?v=N1ktYfszqnM&t=200s [Accessed: 18 March 2024]
