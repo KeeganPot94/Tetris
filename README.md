@@ -1,16 +1,20 @@
-## **Title:** Tetris
+Tetris
 
-**Description:** A simple Tetris game coded in Java.
+Description:
+A simple Tetris game coded in Java.
 
-**What I learned:**
-- 
-- 
-- 
+What I Learned:
+- Familiarising myself with Sub Class inheritance.
+- The use of Arrays and ArrayLists to hold isolated copies of data - for reset or temp purposes.
 
-**Future Improvements:**
+Future Improvements:
+- implement music and sound effects.
 
-- implement music and sound effects
-
-**References:**
-
+References:
 - Original tutorial available at: https://www.youtube.com/watch?v=N1ktYfszqnM&t=200s [Accessed: 18 March 2024]
+
+
+
+
+
+
