@@ -12,6 +12,7 @@ Future Improvements:
 
 References:
 - Original tutorial available at: https://www.youtube.com/watch?v=N1ktYfszqnM&t=200s [Accessed: 18 March 2024]
+- Screenshots available at: https://github.com/KeeganPot94/Tetris/tree/main/screenshots 
 
 
 
